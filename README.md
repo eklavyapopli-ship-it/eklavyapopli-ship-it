@@ -3,7 +3,7 @@
 ---
 
 <p align="center">
-  <img src="https://lh3.googleusercontent.com/pw/AP1GczPADwgTo357i8mvZ0LrUM_WZ5pZDhkPeFbHiTO4mHzcaWhndIj60FJiAu4OXFE95Z8dMxlrDd9HB4znDizRRDhVe6diGa1otHh8j5L7iJ_0TGUwHkx5=w2400" width="100%" title="Intro Card" alt="Intro Card">
+  <img src="https://lh3.googleusercontent.com/pw/AP1GczPn8rr4cRSbC_XA5lWcQaHzZDjl9qKjTlr06CBwF0JI48powoN2n1TBVimY5z-6vEo0djNboHiqUPjYQNNQ9KMMdIZqdIxYqxSM4GBEqpO_7m5sBDN1=w2400" width="100%" title="Intro Card" alt="Intro Card">
 </p>
 
 I am a Full-stack Mobile and Web Developer who is exploring Cloud :cloud: while facilitating the world with User Experience with my Design Thinking Skills and I am a Software Development Enthusiast. :wink:
